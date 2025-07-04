@@ -30,6 +30,8 @@ def connect():
     print("Connection successful")
     print(station.ifconfig())
 
+connect()
+
 
 
 
